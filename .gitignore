@@ -129,8 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-s1.create-password/icons/
-s1.create-password/logos/
+*/icons/
+*/logos/
 
-s2.envio-email/icons/
-s2.envio-email/logos/
